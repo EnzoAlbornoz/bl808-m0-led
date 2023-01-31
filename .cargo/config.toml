@@ -1,0 +1,5 @@
+[unstable]
+build-std = ["core", "alloc"]
+
+[build]
+target = "targets/riscv32imafcp-unknown-none-elf.json"
